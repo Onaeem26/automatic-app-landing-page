@@ -38,12 +38,12 @@ features                                  :
     description                           : We think to-do apps should be fast and clutter free. Quickly jot down tasks or notes. 
     fontawesome_icon_name                 : magic
     
-  - title                                 : Any Size 
-    description                           : TaskLane supports devices of all sizes and .
+  - title                                 : Dynamic Font 
+    description                           : Big or small font size, whatever it may be - we display it.
     fontawesome_icon_name                 : mobile
 
   - title                                 : iCloud Syncing
-    description                           : Sync your lists across all your devices. It work's like magic.
+    description                           : Sync your tasks & lists across all your devices. It work's like magic.
     fontawesome_icon_name                 : sync
 
   - title                                 : Topics
