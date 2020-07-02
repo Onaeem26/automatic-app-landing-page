@@ -6,7 +6,7 @@ include_in_header: false
 
 Privacy Policy
 
-The policy applies to all information collected on Tasklane’s website and our apps for iPhone and any other devices and platforms.
+The policy applies to all information collected on TaskLane’s website and our apps for iPhone and any other devices and platforms.
 
 Your privacy is critcally important to us. Therefore our website and apps does not collect any personally identifiable information or location data.
 
