@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Any Size 
-    description                           : TaskLane supports devices of all sizes.
+    description                           : TaskLane supports devices of all sizes and .
     fontawesome_icon_name                 : mobile
 
   - title                                 : iCloud Syncing
@@ -59,11 +59,11 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Biometric Locking
-    description                           : Secure your lists via FaceID/TouchID.
+    description                           : Lock individual lists using your device's biometry.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Contextual Menus
-    description                           : Easily and quickly create a new task, edit lists or delete them using contextual menus
+    description                           : Quickly create a new task, edit or delete lists using contextual menus
     fontawesome_icon_name                 : link
 
   - title                                 : Dark Mode
