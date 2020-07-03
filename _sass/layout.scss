@@ -386,7 +386,7 @@ nav > ul li a:active {
 	.signupContainer {
 		margin-top: 24px;
 		width: 100%;
-		text-align: center;
+		float: center;
 		//margin-left: -12px;
 	}
 	
@@ -395,7 +395,7 @@ nav > ul li a:active {
 @media only screen and (max-width: 992px) {
 
 	.signupContainer {
-		text-align: center;
+		float: center;
 	}
 	
 }
