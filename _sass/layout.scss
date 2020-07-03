@@ -247,7 +247,7 @@ nav > ul li a:active {
 	grid-area: i;
 	display: flex;
 	flex-wrap: wrap;
-	padding-top: 80px; //140px
+	padding-top: 40px; //140px
 	align-content: flex-start;
 }
 
@@ -384,7 +384,7 @@ nav > ul li a:active {
 	background-image: url($device-color);
 	background-size: 400px auto;
 	background-repeat: no-repeat;
-	margin-top: 68px; 
+	margin-top: 28px; //68px 
 	
 }
 
