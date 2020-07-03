@@ -375,35 +375,7 @@ nav > ul li a:active {
 	height: 75px;
 }
 
-.signupContainer {
-	display: inline-block;
-	margin-top: 24px;
-	width: 100%;
-	margin-left: -12px;
-}
 
-@media only screen and (max-width: 528px) {
-
-	.signupContainer {
-		margin-top: 24;
-		background-color: green;
-		//width: 100%;
-		text-align: center;
-		//margin-left: -12px;
-	}
-	
-} 
-
-@media only screen and (max-width: 992px) {
-
-	.signupContainer {
-		margin-top: 24;
-		background-color: red;
-		text-align: center;
-		//width: 100%;
-	}
-	
-}
 // iPhone Device Preview
 
 .iphonePreview {
