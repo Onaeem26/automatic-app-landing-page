@@ -386,7 +386,7 @@ nav > ul li a:active {
 	.signupContainer {
 		margin-top: 24px;
 		width: 100%;
-		float: center;
+		display: inline-block;
 		//margin-left: -12px;
 	}
 	
@@ -395,7 +395,9 @@ nav > ul li a:active {
 @media only screen and (max-width: 992px) {
 
 	.signupContainer {
-		float: center;
+		margin-top: 24px;
+		display: inline-block;
+		width: 100%;
 	}
 	
 }
