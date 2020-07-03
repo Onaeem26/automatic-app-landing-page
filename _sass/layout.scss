@@ -376,6 +376,7 @@ nav > ul li a:active {
 }
 
 .signupContainer {
+	display: inline-block;
 	margin-top: 24px;
 	width: 100%;
 	margin-left: -12px;
@@ -385,8 +386,8 @@ nav > ul li a:active {
 
 	.signupContainer {
 		margin-top: 24px;
-		width: 100%;
-		display: inline-block;
+		//width: 100%;
+		text-align: center;
 		//margin-left: -12px;
 	}
 	
@@ -396,8 +397,8 @@ nav > ul li a:active {
 
 	.signupContainer {
 		margin-top: 24px;
-		display: inline-block;
-		width: 100%;
+		text-align: center;
+		//width: 100%;
 	}
 	
 }
